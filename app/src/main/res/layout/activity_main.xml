@@ -32,13 +32,6 @@
             android:layout_above="@id/bt_read_internal"
             android:text="@string/text_write_internal" />
 
-    <Button android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_above="@id/bt_read_internal"
-            android:layout_marginBottom="50dp"
-            android:id="@+id/bt_read_external"
-            android:text="READ EXTERNAL FILE"/>
-
     <Button
             android:id="@+id/bt_read_internal"
             android:layout_width="wrap_content"
